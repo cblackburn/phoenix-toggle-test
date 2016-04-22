@@ -12,7 +12,7 @@
   "activationCommands": {
     "atom-workspace": "phoenix-toggle-test:toggle"
   },
-  "repository": "https://github.com/midwire/phoenix-toggle-test",
+  "repository": "https://github.com/cblackburn/phoenix-toggle-test",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
