@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle phoenix-toggle-test",
+        "command": "phoenix-toggle-test:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "phoenix-toggle-test",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "phoenix-toggle-test:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "atom-text-editor": {
+    "alt-shift-y": "phoenix-toggle-test:toggle"
+  }
+}
